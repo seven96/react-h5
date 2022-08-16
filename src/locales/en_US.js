@@ -1,3 +1,3 @@
 export default {
-    title: 'Order Tracking H5',
-}
+  title: "Order Tracking H5",
+};
